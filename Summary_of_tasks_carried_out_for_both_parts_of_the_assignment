@@ -1,0 +1,21 @@
+First part of the assignment:
+
+- In the sql files, data from a csv file is imported in a certain structure as provided in the 'create table movies' section. 
+- Based on a certain movie that is selected, in this case 'pirates of the caribbean the curse of the black pearl', other movies that could be interesting based on certain factors can be watched as well as a recommendations.
+- These movie recommendations are provided in the top50recommendations.csv files respectively. 
+- The above steps are carried out for summary, starring and title fields, which provide each certain outcomes based on these parameters. 
+- The movies that are selected for this part of the assignment seem logic, as most of the movies are adventurous/action oriented. However, the movies of the starring code file seem to me a -
+bit odd, as horror movies are also presented in the outcome of this file. 
+
+
+
+Second part of the assignment: 
+
+-A file is used, which provides userreviews for movies. This is listed in a dataset through a csv reader. 
+-Based on the movie, the wolf of wallstreet, the authors that gave reviews on this movie are filtered. 
+-Then the authors that reviewed that movie are used to see on which other movies these authors also gave reviews. 
+-This list of movies is presented in a new file, which is under the name of movies-filtered-by-authors.txt. 
+-The outcome of this piece of code shows certain movies that are also highly rated and which seem to me as movies that I would watch as well as recommendations. 
+
+
+
